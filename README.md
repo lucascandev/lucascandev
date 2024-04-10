@@ -20,4 +20,4 @@ Sou um entusiasta de vídeo games e tecnologia que transformou a sua paixão em 
 
 ## Alguns projetos que desenvolvi:
 
-[![RPG de Mesa](https://github-readme-stats.vercel.app/api/pin/?username=lucascandev&repo=rpg_mesa)](https://github.com/lucascandev/rpg_mesa/blob/main/README.md)
+[![RPG de Mesa](https://github-readme-stats.vercel.app/api/pin/?username=lucascandev&repo=rpg_mesa)](https://github.com/lucascandev/rpg_mesa)
