@@ -22,4 +22,4 @@ Sou um entusiasta de vídeo games e tecnologia que transformou a sua paixão em 
 
 [![RPG de Mesa](https://github-readme-stats.vercel.app/api/pin/?username=lucascandev&repo=rpg_mesa)](https://github.com/lucascandev/rpg_mesa)
 [![Concessionária](https://github-readme-stats.vercel.app/api/pin/?username=lucascandev&repo=concessionaria)](https://github.com/lucascandev/concessionaria)
-[![Concessionária](https://github-readme-stats.vercel.app/api/pin/?username=lucascandev&repo=calculadora-lofi)](https://github.com/lucascandev/calculadora-lofi)
+[![Calculadora Lo-Fi](https://github-readme-stats.vercel.app/api/pin/?username=lucascandev&repo=calculadora-lofi)](https://github.com/lucascandev/calculadora-lofi)
