@@ -31,7 +31,7 @@
   <a>
     <img/>
   </a>
-  <a href="https://github.com/cristoferluch/convoychat">
+  <a href="https://github.com/lucascandev/github-readme-stats">
     <img height="150" src="https://github-readme-stats.vercel.app/api?username=lucascandev&show_icons=true&theme=tokyonight&rank_icon=github"/>
   </a>
 </div>
