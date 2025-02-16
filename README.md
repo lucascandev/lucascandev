@@ -1,25 +1,47 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7604d9&height=120&section=header"/>
 
-### Olá! Eu sou o Lucas 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFFFF&size=35&size=24&pause=5000&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Lucas+Candido+Luiz;)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucascandidoluiz/)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@boltreskh)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasluizcandido/)
+![](https://komarev.com/ghpvc/?username=lucascandev&color=blueviolet)
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucascandev&show_icons=true&theme=ambient_gradient)
+<br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucascandev&layout=compact)
+* 🌍  I'm based in Brazil
+* ✉️  You can contact me at [luizcandidolucas@hotmail.com](mailto:luizcandidolucas@hotmail.com)
+* 🧠  I'm learning Java
+* 🤝  I'm open to collaborating on Projects
 
-## Linguagens que eu uso no meu dia:
 
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.alura.com.br/artigos/java)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.alura.com.br/artigos/python)
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://www.alura.com.br/artigos/csharp-linguagem-programacao-dotnet)
+<h3 align="center">Skills</h3>
 
-Olá! Sou Lucas, um entusiasta apaixonado por tecnologia, com um foco especial na área de back-end e análise de dados. Tenho um background sólido em Análise e Desenvolvimento de Sistemas e atualmente estou aprofundando meus conhecimentos com uma pós-graduação em Engenharia de Software.
+<div align="center" style="display: inline_block">
+  <img align="center" alt="Cris-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="Cris-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+  <img align="center" alt="Cris-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Cris-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+</div>
 
-## Alguns projetos que desenvolvi:
+<br>
 
-[![RPG de Mesa](https://github-readme-stats.vercel.app/api/pin/?username=lucascandev&repo=rpg_mesa)](https://github.com/lucascandev/rpg_mesa)
-[![Concessionária](https://github-readme-stats.vercel.app/api/pin/?username=lucascandev&repo=concessionaria)](https://github.com/lucascandev/concessionaria)
-[![Calculadora Lo-Fi](https://github-readme-stats.vercel.app/api/pin/?username=lucascandev&repo=calculadora-lofi)](https://github.com/lucascandev/calculadora-lofi)
-[![Cadastro de Usuários](https://github-readme-stats.vercel.app/api/pin/?username=lucascandev&repo=cadastro-de-usuarios)](https://github.com/lucascandev/cadastro-de-usuarios)
+<div align="center">
+  <a href="https://github.com/lucascandev/github-readme-stats">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascandev&layout=compact&theme=tokyonight" />
+  </a>
+  <a>
+    <img/>
+  </a>
+  <a href="https://github.com/cristoferluch/convoychat">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=lucascandev&show_icons=true&theme=tokyonight&rank_icon=github" />
+  </a>
+</div>
+
+
+<br><br>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/lucascandidoluiz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7604d9&height=120&section=footer" />
+</div>
