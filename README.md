@@ -8,7 +8,6 @@
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [luizcandidolucas@hotmail.com](mailto:luizcandidolucas@hotmail.com)
-* 🧠  I'm learning Java
 * 🤝  I'm open to collaborating on Projects
 
 
