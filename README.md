@@ -22,3 +22,4 @@ Olá! Sou Lucas, um entusiasta apaixonado por tecnologia, com um foco especial n
 [![RPG de Mesa](https://github-readme-stats.vercel.app/api/pin/?username=lucascandev&repo=rpg_mesa)](https://github.com/lucascandev/rpg_mesa)
 [![Concessionária](https://github-readme-stats.vercel.app/api/pin/?username=lucascandev&repo=concessionaria)](https://github.com/lucascandev/concessionaria)
 [![Calculadora Lo-Fi](https://github-readme-stats.vercel.app/api/pin/?username=lucascandev&repo=calculadora-lofi)](https://github.com/lucascandev/calculadora-lofi)
+[![Cadastro de Usuários](https://github-readme-stats.vercel.app/api/pin/?username=lucascandev&repo=cadastro-de-usuarios)](https://github.com/lucascandev/cadastro-de-usuarios)
