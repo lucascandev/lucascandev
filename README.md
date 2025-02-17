@@ -26,13 +26,13 @@
 
 <div align="center">
   <a href="https://github.com/lucascandev/github-readme-stats">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascandev&layout=compact&theme=synthwave" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascandev&layout=compact&theme=cobalt" />
   </a>
   <a>
     <img/>
   </a>
   <a href="https://github.com/lucascandev/convoychat">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=lucascandev&show_icons=true&theme=synthwave&rank_icon=github" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=lucascandev&show_icons=true&theme=cobalt&rank_icon=github" />
   </a>
 </div>
 
