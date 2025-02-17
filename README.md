@@ -26,7 +26,7 @@
 
 <div align="center">
   <a href="https://github.com/lucascandev">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascandv&layout=compact&theme=tokyonight"/>
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascandev&layout=compact&theme=tokyonight"/>
   </a>
   <a>
     <img/>
