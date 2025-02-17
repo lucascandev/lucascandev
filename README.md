@@ -26,13 +26,13 @@
 
 <div align="center">
   <a href="https://github.com/lucascandev">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascandev&layout=compact&theme=dracula"/>
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascandev&layout=compact&theme=tokyonight"/>
   </a>
   <a>
     <img/>
   </a>
   <a href="https://github.com/lucascandev">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=lucascandev&show_icons=true&theme=dracula&rank_icon=github"/>
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=lucascandev&show_icons=true&theme=tokyonight&rank_icon=github"/>
   </a>
 </div>
 
