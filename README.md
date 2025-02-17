@@ -32,7 +32,7 @@
     <img/>
   </a>
   <a href="https://github.com/lucascandev/convoychat">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=lucascandevh&show_icons=true&theme=tokyonight&rank_icon=github" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=lucascandev&show_icons=true&theme=tokyonight&rank_icon=github" />
   </a>
 </div>
 
